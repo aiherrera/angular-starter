@@ -22,13 +22,15 @@ npm install
 ## Usage
 
 ```sh
+npm run start
+// or
 ng serve
 ```
 
 ## Run tests
 
 ```sh
-ng test
+npm run tests
 ```
 
 ## Author
@@ -47,6 +49,12 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## 📝 Licence
+
+Copyright © 2021 Alain Iglesias
+
+This project is MIT licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
