@@ -44,7 +44,7 @@ npm run tests
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/aiherrera/angular-starter/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/aiherrera/angular-starter/issues). You can also take a look at the [contributing guide](https://github.com/aiherrera/angular-starter/blob/master/CONTRIBUTING.md)
 
 ## Show your support
 
