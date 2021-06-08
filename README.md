@@ -1,27 +1,52 @@
-# AngularStarter
+<h1 align="center">Welcome to angular-starter 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/angular-starter" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/angular-starter.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/AlainIHerrera" target="_blank">
+    <img alt="Twitter: AlainIHerrera" src="https://img.shields.io/twitter/follow/AlainIHerrera.svg?style=social" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+> A fully configurated angular starter template
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+ng serve
+```
 
-## Build
+## Run tests
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```sh
+ng test
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Alain Iglesias**
 
-## Running end-to-end tests
+* Website: https://aiherrera.com
+* Twitter: [@AlainIHerrera](https://twitter.com/AlainIHerrera)
+* Github: [@aiherrera](https://github.com/aiherrera)
+* LinkedIn: [@alain-iherrera](https://linkedin.com/in/alain-iherrera)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
+## 🤝 Contributing
 
-## Further help
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/aiherrera/angular-starter/issues). 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
