@@ -13,6 +13,17 @@
 
 > A fully configurated angular starter template
 
+This is intended to be a template for [Angular](https://angular.io/) personal projects.
+
+#### The template has been configured with:
+* [Typescript](https://www.typescriptlang.org/)
+* [Sass](https://sass-lang.com)
+* [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) & [Standard version](https://github.com/conventional-changelog/standard-version)
+* [Husky hooks](https://github.com/typicode/husky)
+* [Pretty quick](https://github.com/azz/pretty-quick)
+* [Lint staged](https://github.com/okonet/lint-staged)
+* [Commitizen](https://github.com/commitizen/cz-cli)
+
 ## Install
 
 ```sh
