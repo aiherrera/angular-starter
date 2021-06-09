@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> A fully configurated angular starter template
+> An angular starter template fully configured with conventional commits, prettier, husky, and many other utils to make dev lives smooth :)
 
 This is intended to be a template for [Angular](https://angular.io/) personal projects.
 
