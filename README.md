@@ -13,6 +13,8 @@
 
 > An angular starter template fully configured with conventional commits, prettier, husky, and many other utils to make dev lives smooth :)
 
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+
 This is intended to be a template for [Angular](https://angular.io/) personal projects.
 
 #### The template has been configured with:
